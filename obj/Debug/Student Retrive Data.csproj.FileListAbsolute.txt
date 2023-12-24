@@ -1,0 +1,7 @@
+C:\Users\gunav\Student Retrive Data\Student Retrive Data\bin\Debug\Student Retrive Data.exe.config
+C:\Users\gunav\Student Retrive Data\Student Retrive Data\bin\Debug\Student Retrive Data.exe
+C:\Users\gunav\Student Retrive Data\Student Retrive Data\bin\Debug\Student Retrive Data.pdb
+C:\Users\gunav\Student Retrive Data\Student Retrive Data\obj\Debug\Student Retrive Data.csproj.AssemblyReference.cache
+C:\Users\gunav\Student Retrive Data\Student Retrive Data\obj\Debug\Student Retrive Data.csproj.CoreCompileInputs.cache
+C:\Users\gunav\Student Retrive Data\Student Retrive Data\obj\Debug\Student Retrive Data.exe
+C:\Users\gunav\Student Retrive Data\Student Retrive Data\obj\Debug\Student Retrive Data.pdb
